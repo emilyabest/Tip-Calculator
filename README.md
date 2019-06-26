@@ -4,7 +4,7 @@
 
 Submitted by: **Emily Best**
 
-Time spent: **3.75** hours spent in total _(meant with manager during work time)_
+Time spent: **3.75** hours spent in total _(met with manager during work time)_
 
 ## User Stories
 
